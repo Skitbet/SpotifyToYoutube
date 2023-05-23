@@ -1,0 +1,21 @@
+{
+  "name": "spotifytoyoutube",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^8.8.0",
+    "googleapis": "^118.0.0",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "open": "^9.1.0",
+    "request": "^2.88.2"
+  }
+}
